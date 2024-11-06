@@ -1,5 +1,5 @@
 ## 👋 Welcome to My GitHub Profile!
-Hi, I'm Alief Chandra Darmawan! I'm passionate about software development, exploring new technologies, and creating user-friendly applications. Thanks for stopping by!
+Hi, I'm Ray! I'm passionate about desgining anything or making some editing. Thanks for stopping by!
 
 ## 🛠 TOOLS & LANGUAGES
 
